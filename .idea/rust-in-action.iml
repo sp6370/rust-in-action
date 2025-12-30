@@ -1,7 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="EMPTY_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/ch1/ch1-cereals/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch1/ch1-fruit/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch1/ch1-hello2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch1/ch1-letters/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch1/ch1-penguins/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch1/ch1-race/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch10/ch10-busythreads-broken/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch10/ch10-busythreads/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch10/ch10-channels-complex/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch10/ch10-channels-intro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch10/ch10-multijoin/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch10/ch10-render-hex-functional/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch10/ch10-render-hex-parallel-iterator/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch10/ch10-render-hex-threadpool/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch10/ch10-render-hex/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch10/ch10-sharedpause-broken/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch12/ch12-basic-handler/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch12/ch12-callstack/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch12/ch12-ignore/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch12/ch12-sixty/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch12/ch12-sjlj/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch12/ch12-toy-global/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch2/ch2-complex/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch2/ch2-mandelbrot/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch3/filebasics/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch3/fileresult/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch3/globalerror/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch5/ch5-cpu1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch5/ch5-cpu2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch5/ch5-cpu3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch5/ch5-cpu4/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch5/ch5-q/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch6/ch6-meminfo-win/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch6/ch6-memscan-1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch6/ch6-memscan-2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch6/ch6-memscan-3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch6/ch6-particles/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch7/ch7-actionkv/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch7/ch7-actionkv1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch7/ch7-actionkv2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch7/ch7-fview-str/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch7/ch7-fview/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch7/ch7-pacific-basic/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch7/ch7-pacific-json/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch7/ch7-partitybit/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch7/ch7-serde-eg/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch7/ch7-write123/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch8/ch8-mac/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch8/ch8-resolve/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch8/ch8-rpg/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch8/ch8-simple/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch8/ch8-stdlib/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch9/ch9-clock0/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch9/ch9-clock1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch9/ch9-clock2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch9/ch9-clock3/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/ch1/ch1-cereals/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch1/ch1-fruit/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch1/ch1-hello2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch1/ch1-letters/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch1/ch1-penguins/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch1/ch1-race/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch10/ch10-busythreads-broken/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch10/ch10-busythreads/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch10/ch10-channels-complex/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch10/ch10-channels-intro/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch10/ch10-multijoin/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch10/ch10-render-hex-functional/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch10/ch10-render-hex-parallel-iterator/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch10/ch10-render-hex-threadpool/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch10/ch10-render-hex/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch10/ch10-sharedpause-broken/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch12/ch12-basic-handler/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch12/ch12-callstack/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch12/ch12-ignore/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch12/ch12-sixty/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch12/ch12-sjlj/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch12/ch12-toy-global/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch2/ch2-complex/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch2/ch2-mandelbrot/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch3/filebasics/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch3/fileresult/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch3/globalerror/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch5/ch5-cpu1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch5/ch5-cpu2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch5/ch5-cpu3/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch5/ch5-cpu4/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch5/ch5-q/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch6/ch6-meminfo-win/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch6/ch6-memscan-1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch6/ch6-memscan-2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch6/ch6-memscan-3/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch6/ch6-particles/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch7/ch7-actionkv/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch7/ch7-actionkv1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch7/ch7-actionkv2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch7/ch7-fview-str/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch7/ch7-fview/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch7/ch7-pacific-basic/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch7/ch7-pacific-json/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch7/ch7-partitybit/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch7/ch7-serde-eg/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch7/ch7-write123/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch8/ch8-mac/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch8/ch8-resolve/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch8/ch8-rpg/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch8/ch8-simple/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch8/ch8-stdlib/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch9/ch9-clock0/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch9/ch9-clock1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch9/ch9-clock2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ch9/ch9-clock3/target" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
